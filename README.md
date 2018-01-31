@@ -1,1 +1,1 @@
-# azure-cosmos-mongodb
+# cosmos-mongodb-ru-test
